@@ -80,6 +80,12 @@ h1 {
   margin-bottom: 16pt;
 }
 
+p {
+  text-align: left;
+  color: black;
+  font-size: 13pt;
+}
+
 img {
   vertical-align: middle;
 }
